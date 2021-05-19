@@ -15,3 +15,6 @@ To run virtual environment
 > <env_name>\Scripts\activate.bat # windows
 
 > source <env_name>/bin/activate # linux or macos
+
+Install the dependencies from requirements.txt
+> pip install -r requirements.txt
